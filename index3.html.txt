@@ -1,0 +1,14 @@
+<DOCTYPE html>
+<html>
+	<head>
+		<title> Hot Air Ballon </title>
+	</head>
+
+	<body>
+              <div id=“air-b”>
+
+              <img src = “balloon.jpg” alt=”hot air ballon”>
+
+              </div>
+	</body>
+</html>

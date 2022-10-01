@@ -1,0 +1,40 @@
+#yellow-l {
+   width: 400px;
+   height:	80px;
+   Background-color: yellow; 
+}
+
+#green-l {
+   width: 400px;
+   height:	80px;
+   Background-color: green;
+}
+
+#red-l {
+   width: 400px;
+   height:	80px;
+   Background-color: red;
+}
+
+#yellow-r {
+    height: 240px;
+    width:  133px;
+    Background-color: yellow; 
+    margin-top: 100px;
+    Margin-left: 50px;
+    border: solid blue;
+    Border-right: 133px;
+    Border-left: 133px;
+}
+
+#air-b {
+   width: 300px;
+   height: 375px;
+   margin-top: 100px;
+   margin-left: 100px;
+   border: 5px red dashed;
+}
+Img {   
+    padding: 10px 5px; 
+}
+
