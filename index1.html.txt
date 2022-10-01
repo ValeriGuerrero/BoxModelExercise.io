@@ -1,0 +1,13 @@
+DOCTYPE html>
+<html>
+	<head>
+		<title> Lithuanian Flag </title>
+	</head>
+
+	<body>
+              <div id=“yellow-l”> </div> 
+              <div id=“green-l”> </div>
+              <div id=“red-l”> </div>
+
+	</body>
+</html>
